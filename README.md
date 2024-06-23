@@ -25,7 +25,7 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,java,postgresql" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=spring,java,postgresql,mysql,express" alt="Skills" />
 </p>
 
 ### DevOps
@@ -61,7 +61,7 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:cninareynaga@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
     <a href="https://carlitosnina.com/" target="_blank">
     <img src="portfolio.png" width="50" alt="Portfolio" />
