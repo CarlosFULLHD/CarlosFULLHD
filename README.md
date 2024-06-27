@@ -7,8 +7,7 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
 - **I am interested in Web Development, and DevOps**
 
 * 🌱 I’m currently learning:
-  - Keycloak
-  - Spring Boot Microservices
+  - Spring Boot Microservices and React in deep with books
 * Outside tech, 📖 I love to read books on business, entrepreneurship, marketing, philosophy, human behavior, and psychology. I also practice calisthenics and am working on a personal project on social media.
 * 📫 Reach out to me at: <a href="mailto:cninareynaga@gmail.com">Email</a>
 
@@ -68,10 +67,10 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
     <a href="https://carlitosnina.com/" target="_blank">
-    <img src="portfolio.png" width="50" alt="Portfolio" />
+    <img src="imgs/portfolio.png" width="50" alt="Portfolio" />
   </a>
     <a href="linkcv" target="_blank">
-    <img src="cv.png" width="50" alt="Email" />
+    <img src="imgs/cv.png" width="50" alt="Email" />
   </a>
 </div>
 
@@ -81,12 +80,12 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
   <summary>Click to expand</summary>
 
 <div align="center">
-                <img src="capi.webp" alt="Project 1" width="300px" />
-                <img src="1.jpg" alt="Project 2" width="300px" />
-                <img src="5.png" alt="Project 2" width="300px" />
-                <img src="3.jpg" alt="Project 2" width="300px" />
-                <img src="4.webp" alt="Project 2" width="300px" />
-                <img src="2.jpg" alt="Project 2" width="300px" />
+                <img src="imgs/capi.webp" alt="Project 1" width="300px" />
+                <img src="imgs/1.jpg" alt="Project 2" width="300px" />
+                <img src="imgs/5.png" alt="Project 2" width="300px" />
+                <img src="imgs/3.jpg" alt="Project 2" width="300px" />
+                <img src="imgs/4.webp" alt="Project 2" width="300px" />
+                <img src="imgs/2.jpg" alt="Project 2" width="300px" />
 </div>
 
 </details>
