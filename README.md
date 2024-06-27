@@ -1,7 +1,5 @@
 # Hi, Carlos Nina here.
 
-<img align="right" width=300px alt="Meme" src="netflis.webp" />
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
 I am a Systems Engineering student at UCB, Bolivia. I am passionate about learning and building innovative and creative solutions using various technologies.
@@ -31,7 +29,7 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
 ### DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,vercel,netlify,aws" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,vercel" alt="Skills" />
 </p>
 
 ## 👀 My GitHub Stats
@@ -45,11 +43,17 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
 
 <div align="center">
   <p style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
+    <a href="https://github.com/CarlosFULLHD/thesis_management_system">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFULLHD&repo=thesis_management_system&theme=dark" alt="Thesis Management System" />
+    </a>
     <a href="https://github.com/CarlosFULLHD/JobFairPlatform">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFULLHD&repo=JobFairPlatform&theme=dark" alt="Job Fair Platform" />
     </a>
     <a href="https://github.com/CarlosFULLHD/iot_garaje_inteligente">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFULLHD&repo=iot_garaje_inteligente&theme=dark" alt="IoT Garaje Inteligente" />
+    </a>
+    <a href="https://github.com/CarlosFULLHD/spring-microservices">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarlosFULLHD&repo=spring-microservices&theme=dark" alt="Spring Microservices" />
     </a>
   </p>
 </div>
@@ -71,7 +75,10 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
   </a>
 </div>
 
-## A real developer without memes is not a developer
+## Some memes:
+
+<details>
+  <summary>Click to expand</summary>
 
 <div align="center">
                 <img src="capi.webp" alt="Project 1" width="300px" />
@@ -81,3 +88,5 @@ I am a Systems Engineering student at UCB, Bolivia. I am passionate about learni
                 <img src="4.webp" alt="Project 2" width="300px" />
                 <img src="2.jpg" alt="Project 2" width="300px" />
 </div>
+
+</details>
