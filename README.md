@@ -2,21 +2,25 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
-I am a Systems Engineering student at UCB, Bolivia. I am passionate about learning and building innovative and creative solutions using various technologies.
+I am a Full Stack developer passionate about Vue.js, React, and Spring Boot. I have developed several significant projects for the Bolivian Catholic University (UCB), focusing on innovative systems that enhance academic and administrative efficiency. I love solving complex problems and am dedicated to continuous learning and professional growth.
 
-- **I am interested in Web Development, and DevOps**
+I have experience with JWT + RBAC, security, session management, API consumption, clean architecture, and the complete software development lifecycle.
+
+- **I am interested in Full Stack Web Development**
 
 * 🌱 I’m currently learning:
-  - Spring Boot Microservices and React in deep with books
-* Outside tech, 📖 I love to read books on business, entrepreneurship, marketing, philosophy, human behavior, and psychology. I also practice calisthenics and am working on a personal project on social media.
-* 📫 Reach out to me at: <a href="mailto:cninareynaga@gmail.com">Email</a>
+  - Frontend development state management libraries
+
+Feel free to explore my repositories to see my projects and contributions.
+
+- 📫 Reach out to me at: <a href="mailto:cninareynaga@gmail.com">Email</a>
 
 ## <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl1F/giphy.gif" width="30px">&nbsp;**_Skills_**
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,tailwind" alt="Skills" />
 </p>
 
 ### Backend
