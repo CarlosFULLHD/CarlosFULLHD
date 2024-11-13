@@ -1,39 +1,23 @@
-# Hi, Carlos Nina here.
+# Carlos Nina - Backend Developer Specializing in ERP and System Integration
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
-I am a Full Stack developer passionate about Vue.js, React, and Spring Boot. I have developed several significant projects for the Bolivian Catholic University (UCB), focusing on innovative systems that enhance academic and administrative efficiency. I love solving complex problems and am dedicated to continuous learning and professional growth.
+I am Carlos Nina, a Backend Developer with a strong specialization in ERP systems, particularly Odoo, where I focus on developing robust, scalable solutions that enhance operational efficiency for businesses. With a solid background in software engineering and a passion for optimizing processes through technology, I have built a reputation for delivering high-quality, tailored solutions in ERP implementations.
 
-I have experience with JWT + RBAC, security, session management, API consumption, clean architecture, and the complete software development lifecycle.
+Currently, I am involved in the design, customization, and development of Odoo modules, ensuring seamless integration and alignment with client workflows. My projects aim to empower users with tools that streamline their administrative and operational processes, ultimately driving productivity and growth. 
 
-- **I am interested in Full Stack Web Development**
+### Professional Experience
 
-* 🌱 I’m currently learning:
-  - Frontend development state management libraries
+My experience includes developing various ERP modules, especially for academic institutions, and creating comprehensive systems that support complex workflows. One of my notable achievements was the development of a **Thesis Management System** and a **Career Fair Platform** for the Bolivian Catholic University (UCB), which modernized key academic and administrative processes.
 
-Feel free to explore my repositories to see my projects and contributions.
+Additionally, I am experienced in working with a range of backend technologies and architectures, including:
 
-- 📫 Reach out to me at: <a href="mailto:cninareynaga@gmail.com">Email</a>
+### 🛠️ Tech Stack
 
-## <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl1F/giphy.gif" width="30px">&nbsp;**_Skills_**
+**Backend** | **DevOps** | **Frontend**
+:---: | :---: | :---:
+<img src="https://skillicons.dev/icons?i=spring,java,python,postgresql,mysql" alt="Backend Skills" /> | <img src="https://skillicons.dev/icons?i=docker,jenkins" alt="DevOps Skills" /> | <img src="https://skillicons.dev/icons?i=react,typescript,tailwind" alt="Frontend Skills" />
 
-### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,tailwind" alt="Skills" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,java,postgresql,mysql,express" alt="Skills" />
-</p>
-
-### DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,vercel" alt="Skills" />
-</p>
 
 ## 👀 My GitHub Stats
 
@@ -73,23 +57,9 @@ Feel free to explore my repositories to see my projects and contributions.
     <a href="https://carlitosnina.com/" target="_blank">
     <img src="imgs/portfolio.png" width="50" alt="Portfolio" />
   </a>
-    <a href="linkcv" target="_blank">
+    <a href="imgs\CarlosNIna_SoftwareDeveloper.pdf" target="_blank">
     <img src="imgs/cv.png" width="50" alt="Email" />
   </a>
-</div>
-
-## Some memes:
-
-<details>
-  <summary>Click to expand</summary>
-
-<div align="center">
-                <img src="imgs/capi.webp" alt="Project 1" width="300px" />
-                <img src="imgs/1.jpg" alt="Project 2" width="300px" />
-                <img src="imgs/5.png" alt="Project 2" width="300px" />
-                <img src="imgs/3.jpg" alt="Project 2" width="300px" />
-                <img src="imgs/4.webp" alt="Project 2" width="300px" />
-                <img src="imgs/2.jpg" alt="Project 2" width="300px" />
 </div>
 
 </details>
